@@ -20,7 +20,7 @@ Hello. I am a Biology student at the National University of Colombia. My interes
 
 # Currently
 
-- Learning Web application development as part of the ['Misión TIC 2022'](https://www.misiontic2022.gov.co/portal/) programm tripulation
+- Learning Web application development as part of the ['Misión TIC 2022'](https://www.misiontic2022.gov.co/portal/)
 - Taking a graduate course on bioinformatics 
 
 <!--
