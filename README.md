@@ -12,12 +12,16 @@ Hello. I am a Biology student at the National University of Colombia. My interes
 ![HTML](https://img.shields.io/badge/-HTML-ebebeb?logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?logo=css3)
 ![Spring-boot](https://img.shields.io/badge/-Spring%20Boot-white?logo=spring-boot)
-![Git](https://img.shields.io/badge/-Git-3E2C00?logo=git)
+![Git](https://img.shields.io/badge/-Git-57461A?logo=git)
+![Postman](https://img.shields.io/badge/-Postman-00B2D1?logo=postman)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdescobarh&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+# Currently
 
+- Learning Web application development as part of the ['Misión TIC 2022'](https://www.misiontic2022.gov.co/portal/) programm tripulation
+- Taking a graduate course on bioinformatics 
 
 <!--
 ### Hi there 👋
