@@ -5,7 +5,7 @@ I am a fourth-year Biology student who addresses solving biological problems thr
 # Currently
 
 - Learning Rust on my own
-- Gaining expertise in biochemical constraint-based modeling and COBRA (MATLAB)ay
+- Gaining expertise in biochemical constraint-based modeling and COBRA (MATLAB)
 
 # Tools & languages
 
