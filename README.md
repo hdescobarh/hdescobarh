@@ -10,12 +10,7 @@ I am a fourth-year Biology student who addresses solving biological problems thr
 # Tools & languages
 
 ![Rust](https://img.shields.io/badge/-Rust-B7410E?logo=rust&logoColor=28282B&labelColor=white)
-![Java](https://img.shields.io/badge/-Java-f89820?logo=java)
-![Spring-boot](https://img.shields.io/badge/-Spring%20Boot-white?logo=spring-boot)
-![Postman](https://img.shields.io/badge/-Postman-00B2D1?logo=postman)
-![HTML](https://img.shields.io/badge/-HTML-ebebeb?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-2965f1?logo=css3)
-![Git](https://img.shields.io/badge/-Git-57461A?logo=git)
+![Python](https://img.shields.io/badge/-Python-646464?logo=python&labelColor=fcdd55)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdescobarh&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
