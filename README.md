@@ -1,11 +1,12 @@
 # About Me
 
-I am a fourth-year Biology student who addresses solving biological problems through Computation and System Sciences. My interest includes modeling biological systems, theoretical biology, and the philosophy of science.
+I am a fourth-year Biology student who addresses solving biological problems through Computation and System Science. My interests include modeling biological systems, bioinformatics, theoretical biology, and the philosophy of science.
 
 # Currently
 
-- Learning Rust on my own
-- Gaining expertise in biochemical constraint-based modeling and COBRA (MATLAB)
+- I am a research assistant at the [Bioinformatics and Systems Biology Group](https://gibbslab.github.io/) at the National University of Colombia.
+- Working on constraint-based modeling of metabolic networks.
+- Learning Rust on [my own](https://github.com/hdescobarh/rustaceology-logbook).
 
 # Tools & languages
 
