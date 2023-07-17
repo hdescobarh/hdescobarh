@@ -14,7 +14,7 @@ I am a fourth-year Biology student who addresses solving biological problems thr
 ![Python](https://img.shields.io/badge/-Python-646464?logo=python&labelColor=fcdd55)
 
 
-[![Top Langs](https://github-readme-stats-tan-theta-63.vercel.app/api/top-langs/?username=hdescobarh&size_weight=0.4&count_weight=0.6&exclude_repo=github-readme-stats,cadena_lagenerica_backend,cadena_lagenerica_frontend,retos-programacion-2023&theme=dracula)](https://github.com/hdescobarh/github-readme-stats)
+[![Top Langs](github-readme-stats-hdescobarh.vercel.app/api/top-langs/?username=hdescobarh&size_weight=0.4&count_weight=0.6&exclude_repo=github-readme-stats,cadena_lagenerica_backend,cadena_lagenerica_frontend,retos-programacion-2023&theme=dracula)](https://github.com/hdescobarh/github-readme-stats)
 
 <!--
 ### Hi there 👋
