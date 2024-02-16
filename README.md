@@ -5,11 +5,6 @@ My interests include modeling biological systems, bioinformatics, theoretical bi
 
 I mainly program in Python with Jupyter Notebooks, but I am flexible and use R or MATLAB if the problem (or the available tools) requires it.
 
-# Currently
-
-- I am a research assistant at the [Bioinformatics and Systems Biology Group](https://gibbslab.github.io/) at the National University of Colombia.
-- Working on constraint-based modeling of metabolic networks.
-- Learning Rust on [my own](https://github.com/hdescobarh/rustaceology-logbook).
 
 # Languages
 
