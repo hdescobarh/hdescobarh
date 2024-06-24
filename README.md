@@ -13,5 +13,5 @@ I mainly program in Python with Jupyter Notebooks, but I am flexible and use R o
 
 
 <a target="_blank=" href="https://github.com/hdescobarh/github-readme-stats">
-  <img align="center" alt="Top used languages card" src="https://github-readme-stats-tan-theta-63.vercel.app/api/top-langs/?username=hdescobarh&cache_seconds=86400&size_weight=0.4&count_weight=0.6&exclude_repo=github-readme-stats,cadena_lagenerica_backend,cadena_lagenerica_frontend,Solution-to-Linear-Algebra-Done-Wrong&theme=dracula"/>
+  <img align="center" alt="Top used languages card" src="https://github-readme-stats-tan-theta-63.vercel.app/api/top-langs/?username=hdescobarh&cache_seconds=86400&size_weight=0.4&count_weight=0.6&exclude_repo=github-readme-stats,cadena_lagenerica_backend,cadena_lagenerica_frontend,Solution-to-Linear-Algebra-Done-Wrong,explorando-typescript&theme=dracula"/>
 </a>
