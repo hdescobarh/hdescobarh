@@ -2,7 +2,9 @@
 
 I'm a biologist with a focus on bioinformatic analysis and computational modeling of biological systems. I have a strong foundation in scientific programming and software development. My skills include proficiency in Python (primarily with Jupyter Notebooks), and I'm also comfortable using R and MATLAB when the project demands it.
 
-Interests: Systems Biology, Theoretical Biology, and the Philosophy of Science.
+I'm proactive about learning and enjoy tackling complex biological questions through computational methods 👾🧬.
+
+__Interests__: Systems Biology, Theoretical Biology, and the Philosophy of Science.
 
 # Languages
 
