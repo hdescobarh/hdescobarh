@@ -1,10 +1,8 @@
 # About Me
 
-I am a final-year Biology student who addresses solving biological problems through Computation and System Science. 
-My interests include modeling biological systems, bioinformatics, theoretical biology, and the philosophy of science.
+I'm a biologist with a focus on bioinformatic analysis and computational modeling of biological systems. I have a strong foundation in scientific programming and software development. My skills include proficiency in Python (primarily with Jupyter Notebooks), and I'm also comfortable using R and MATLAB when the project demands it.
 
-I mainly program in Python with Jupyter Notebooks, but I am flexible and use R or MATLAB if the problem (or the available tools) requires it.
-
+Interests: Systems Biology, Theoretical Biology, and the Philosophy of Science.
 
 # Languages
 
