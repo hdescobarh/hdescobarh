@@ -28,4 +28,4 @@ Clinical Bioinformatics 🧪 | Theoretical Biology 👾 | Philosophy of Science 
 
 Thanks for stopping by! 🙌 Feel free to explore my work and reach out if you're interested in collaborating!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/hans-escobar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/hansescobar/)
