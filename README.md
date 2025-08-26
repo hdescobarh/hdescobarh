@@ -1,6 +1,20 @@
-# Hi! 👋🏼, I am Hans Escobar 👨‍🔬
+# Hi!, I am Hans Escobar 👨‍🔬
 
 I'm a **biologist** passionate about **bioinformatics** and **computational modeling of biological systems**. With a strong foundation in **scientific programming** and **software development**, I apply computational methods to tackle complex biological questions 🧬🦠.  
+
+
+## **My Personal Projects**
+
+- [parkinson-gene-panel](https://github.com/hdescobarh/parkinson-gene-panel) *(A semiautomatic workflow to merge, curate and generate ready-to-use files for Whole Genome Sequencing based Parkinson's Disease virtual panel)*
+- [pairwasm_alignment](https://github.com/hdescobarh/pairwasm_alignment) *(pairwise sequence alignment developed in Rust 🦀 and WebAssembly)*
+<br><br>
+
+🤝 **Let's Connect!**
+
+Thanks for stopping by! 🙌 Feel free to explore my work and reach out if you're interested in collaborating!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/hansescobar/)
+
 
 ☕ **Interests**:
 
@@ -19,13 +33,4 @@ Clinical Bioinformatics 🧪 | Theoretical Biology 👾 | Philosophy of Science 
 </a>
 <br><br>
 
-🚀 **My Personal Projects**:
 
-- [pairwasm_alignment](https://github.com/hdescobarh/pairwasm_alignment) *(pairwise sequence alignment developed in Rust 🦀 and WebAssembly)*
-<br><br>
-
-🤝 **Let's Connect!**
-
-Thanks for stopping by! 🙌 Feel free to explore my work and reach out if you're interested in collaborating!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/hansescobar/)
