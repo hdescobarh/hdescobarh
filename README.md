@@ -5,8 +5,8 @@ I'm a **biologist** passionate about **bioinformatics** and **computational mode
 
 ## **My Personal Projects**
 
-- [parkinson-gene-panel](https://github.com/hdescobarh/parkinson-gene-panel) *(A semiautomatic workflow to merge, curate and generate ready-to-use files for Whole Genome Sequencing based Parkinson's Disease virtual panel)*
-- [pairwasm_alignment](https://github.com/hdescobarh/pairwasm_alignment) *(pairwise sequence alignment developed in Rust 🦀 and WebAssembly)*
+- [parkinson-gene-panel](https://github.com/hdescobarh/parkinson-gene-panel):*A semiautomatic workflow to merge, curate and generate ready-to-use files for Whole Genome Sequencing based Parkinson's Disease virtual panel.*
+- [pairwasm_alignment](https://github.com/hdescobarh/pairwasm_alignment): *pairwise sequence alignment developed in Rust 🦀 and WebAssembly.*
 <br><br>
 
 🤝 **Let's Connect!**
